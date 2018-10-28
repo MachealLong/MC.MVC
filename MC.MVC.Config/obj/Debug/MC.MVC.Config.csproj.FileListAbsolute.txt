@@ -1,0 +1,9 @@
+H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.Config\bin\Debug\TestSql\sqlFile.xml
+H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.Config\bin\Debug\Config\log4Net.config
+H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.Config\bin\Debug\Config\providers.config
+H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.Config\bin\Debug\Config\SqlMap.config
+H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.Config\bin\Debug\MC.MVC.Config.dll
+H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.Config\bin\Debug\MC.MVC.Config.pdb
+H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.Config\obj\Debug\MC.MVC.Config.dll
+H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.Config\obj\Debug\MC.MVC.Config.pdb
+H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.Config\obj\Debug\MC.MVC.Config.csprojResolveAssemblyReference.cache

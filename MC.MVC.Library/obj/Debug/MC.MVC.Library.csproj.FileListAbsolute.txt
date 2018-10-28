@@ -1,0 +1,4 @@
+H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.Library\bin\Debug\MC.MVC.Library.dll
+H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.Library\bin\Debug\MC.MVC.Library.pdb
+H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.Library\obj\Debug\MC.MVC.Library.dll
+H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.Library\obj\Debug\MC.MVC.Library.pdb

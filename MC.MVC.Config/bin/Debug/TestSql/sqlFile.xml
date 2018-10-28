@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sqlMap namespace="Fee" xmlns="http://ibatis.apache.org/mapping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+  <alias>
+    <typeAlias alias="Test" type="MC.MVC.DataEntity.SysManage.SysUser,MC.MVC.DataEntity" />
+    <typeAlias alias="TestParam" type="MC.MVC.DataEntity.SysManage.SysUser,MC.MVC.DataEntity" />   
+  </alias>
+  <resultMaps>
+    <resultMap id="SysUserMap" class="TestParam">
+      <result property="UserId" column="UserId"/>
+      <result property="LoginName" column="LoginName"/>
+    </resultMap>
+  </resultMaps>
+
+  <statements>
+    <statement id="FindPageId" parameterClass="System.String" resultClass="System.String" >   
+      <![CDATA[
+      select loginname from sysuser where userid = 1 
+      ]]>
+    </statement>
+    <select id="Test"  resultMap="SysUserMap" >
+      <![CDATA[
+      select * from sysuser     
+      ]]>
+      <!--<dynamic prepend="where">
+        --><!--<isNotEmpty property="UserId" prepend="and">
+          UserId = #UserId#
+        </isNotEmpty>--><!--                
+      </dynamic>-->
+      <!--<![CDATA[
+    order by METER_NO
+    ]]>-->
+    </select>
+    </statements>
+</sqlMap>

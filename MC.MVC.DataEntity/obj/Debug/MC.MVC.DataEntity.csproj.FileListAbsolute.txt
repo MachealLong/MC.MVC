@@ -1,0 +1,4 @@
+H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.DataEntity\bin\Debug\MC.MVC.DataEntity.dll
+H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.DataEntity\bin\Debug\MC.MVC.DataEntity.pdb
+H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.DataEntity\obj\Debug\MC.MVC.DataEntity.dll
+H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.DataEntity\obj\Debug\MC.MVC.DataEntity.pdb
