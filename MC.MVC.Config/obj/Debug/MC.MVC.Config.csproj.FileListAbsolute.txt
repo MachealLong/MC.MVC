@@ -7,3 +7,13 @@ H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.Config\bin\Debug\MC.MVC.Config.pdb
 H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.Config\obj\Debug\MC.MVC.Config.dll
 H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.Config\obj\Debug\MC.MVC.Config.pdb
 H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.Config\obj\Debug\MC.MVC.Config.csprojResolveAssemblyReference.cache
+G:\WorkSpace\GitHub\MC.MVC\MC.MVC.Config\bin\Debug\TestSql\sqlFile.xml
+G:\WorkSpace\GitHub\MC.MVC\MC.MVC.Config\bin\Debug\Config\log4Net.config
+G:\WorkSpace\GitHub\MC.MVC\MC.MVC.Config\bin\Debug\Config\providers.config
+G:\WorkSpace\GitHub\MC.MVC\MC.MVC.Config\bin\Debug\Config\SqlMap.config
+G:\WorkSpace\GitHub\MC.MVC\MC.MVC.Config\bin\Debug\MC.MVC.Config.dll
+G:\WorkSpace\GitHub\MC.MVC\MC.MVC.Config\bin\Debug\MC.MVC.Config.pdb
+G:\WorkSpace\GitHub\MC.MVC\MC.MVC.Config\obj\Debug\MC.MVC.Config.csprojAssemblyReference.cache
+G:\WorkSpace\GitHub\MC.MVC\MC.MVC.Config\obj\Debug\MC.MVC.Config.csproj.CoreCompileInputs.cache
+G:\WorkSpace\GitHub\MC.MVC\MC.MVC.Config\obj\Debug\MC.MVC.Config.dll
+G:\WorkSpace\GitHub\MC.MVC\MC.MVC.Config\obj\Debug\MC.MVC.Config.pdb

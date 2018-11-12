@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MC.MVC.WebSite", "MC.MVC.WebSite\MC.MVC.WebSite.csproj", "{D46C430D-6EC0-448B-A71D-538FD32FF935}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MC.MVC.Config", "MC.MVC.Config\MC.MVC.Config.csproj", "{6148C68E-A666-466B-BB60-993D7BBC55D0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MC.MVC.DataEntity", "MC.MVC.DataEntity\MC.MVC.DataEntity.csproj", "{21D99FB4-B32A-4B6C-A4CD-8CE4FCBFC9B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mc.Winform", "Mc.Winform\Mc.Winform.csproj", "{507D0BBA-57CA-47D5-B958-82CA7B446E8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,8 +53,15 @@ Global
 		{21D99FB4-B32A-4B6C-A4CD-8CE4FCBFC9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21D99FB4-B32A-4B6C-A4CD-8CE4FCBFC9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21D99FB4-B32A-4B6C-A4CD-8CE4FCBFC9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{507D0BBA-57CA-47D5-B958-82CA7B446E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{507D0BBA-57CA-47D5-B958-82CA7B446E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{507D0BBA-57CA-47D5-B958-82CA7B446E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{507D0BBA-57CA-47D5-B958-82CA7B446E8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {339B27C0-3EFB-45BE-9CC4-C1126D0547BF}
 	EndGlobalSection
 EndGlobal
