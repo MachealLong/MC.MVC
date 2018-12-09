@@ -126,3 +126,12 @@ G:\WorkSpace\GitHub\MC.MVC\Mc.Winform\obj\Debug\Mc.Winform.csproj.CoreCompileInp
 G:\WorkSpace\GitHub\MC.MVC\Mc.Winform\obj\Debug\Mc.Winform.csproj.CopyComplete
 G:\WorkSpace\GitHub\MC.MVC\Mc.Winform\obj\Debug\Mc.Winform.exe
 G:\WorkSpace\GitHub\MC.MVC\Mc.Winform\obj\Debug\Mc.Winform.pdb
+G:\WorkSpace\GitHub\MC.MVC\Mc.Winform\bin\Debug\DotImaging.GenericImage.dll
+G:\WorkSpace\GitHub\MC.MVC\Mc.Winform\bin\Debug\DotImaging.Primitives2D.dll
+G:\WorkSpace\GitHub\MC.MVC\Mc.Winform\bin\Debug\DotImaging.GenericImage.xml
+G:\WorkSpace\GitHub\MC.MVC\Mc.Winform\bin\Debug\DotImaging.Primitives2D.xml
+G:\WorkSpace\GitHub\MC.MVC\Mc.Winform\obj\Debug\Mc.Winform.Form2.resources
+G:\WorkSpace\GitHub\MC.MVC\Mc.Winform\bin\Debug\images\canvas-bg.jpg
+G:\WorkSpace\GitHub\MC.MVC\Mc.Winform\bin\Debug\images\houseimage.jpg
+G:\WorkSpace\GitHub\MC.MVC\Mc.Winform\bin\Debug\images\mini.png
+G:\WorkSpace\GitHub\MC.MVC\Mc.Winform\bin\Debug\images\bg-house-property.png

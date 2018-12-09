@@ -28,9 +28,9 @@ namespace MC.MVC.WebSite
             ////初始化MyBatis映射
             MybatisMapper.Instance.Init(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"bin/Config\SqlMap.config"));
             var manageUser = new SysUser();
-            var xx = SysManageOperator.QueryUserList(manageUser);
+            //var xx = SysManageOperator.QueryUserList(manageUser);
             AppLogger.Application.Info("sb");
-            string str = SysManageProvider.test();
+          //  string str = SysManageProvider.test();
             WebApiConfig.Register(GlobalConfiguration.Configuration);
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
