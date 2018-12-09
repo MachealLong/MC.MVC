@@ -36,7 +36,6 @@ G:\WorkSpace\GitHub\MC.MVC\MC.MVC.FrameWork\bin\Debug\IBatisNet.DataMapper.xml
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.FrameWork\bin\Debug\System.Data.SQLite.xml
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.FrameWork\bin\Debug\System.Data.SQLite.dll.config
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.FrameWork\bin\Debug\Castle.DynamicProxy.xml
-G:\WorkSpace\GitHub\MC.MVC\MC.MVC.FrameWork\obj\Debug\MC.MVC.FrameWork.csprojAssemblyReference.cache
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.FrameWork\obj\Debug\MC.MVC.FrameWork.csproj.CoreCompileInputs.cache
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.FrameWork\obj\Debug\MC.MVC.FrameWork.csproj.CopyComplete
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.FrameWork\obj\Debug\MC.MVC.FrameWork.dll

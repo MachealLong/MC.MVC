@@ -4,7 +4,6 @@ H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.Library\obj\Debug\MC.MVC.Library.dll
 H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.Library\obj\Debug\MC.MVC.Library.pdb
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.Library\bin\Debug\MC.MVC.Library.dll
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.Library\bin\Debug\MC.MVC.Library.pdb
-G:\WorkSpace\GitHub\MC.MVC\MC.MVC.Library\obj\Debug\MC.MVC.Library.csprojAssemblyReference.cache
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.Library\obj\Debug\MC.MVC.Library.csproj.CoreCompileInputs.cache
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.Library\obj\Debug\MC.MVC.Library.dll
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.Library\obj\Debug\MC.MVC.Library.pdb

@@ -4,7 +4,6 @@ H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.DataEntity\obj\Debug\MC.MVC.DataEntity.dl
 H:\WorkSpace\MyFrameWork\MC.MVC\MC.MVC.DataEntity\obj\Debug\MC.MVC.DataEntity.pdb
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.DataEntity\bin\Debug\MC.MVC.DataEntity.dll
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.DataEntity\bin\Debug\MC.MVC.DataEntity.pdb
-G:\WorkSpace\GitHub\MC.MVC\MC.MVC.DataEntity\obj\Debug\MC.MVC.DataEntity.csprojAssemblyReference.cache
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.DataEntity\obj\Debug\MC.MVC.DataEntity.csproj.CoreCompileInputs.cache
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.DataEntity\obj\Debug\MC.MVC.DataEntity.dll
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.DataEntity\obj\Debug\MC.MVC.DataEntity.pdb

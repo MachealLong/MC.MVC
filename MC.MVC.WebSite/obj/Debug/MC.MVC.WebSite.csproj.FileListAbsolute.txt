@@ -122,7 +122,6 @@ G:\WorkSpace\GitHub\MC.MVC\MC.MVC.WebSite\bin\System.Web.WebPages.xml
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.WebSite\bin\System.Web.WebPages.Deployment.xml
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.WebSite\bin\System.Web.WebPages.Razor.xml
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.WebSite\bin\IBatisNet.DataMapper.xml
-G:\WorkSpace\GitHub\MC.MVC\MC.MVC.WebSite\bin\System.Net.Http.xml
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.WebSite\bin\IBatisNet.Common.xml
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.WebSite\bin\Castle.DynamicProxy.xml
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.WebSite\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
@@ -134,9 +133,9 @@ G:\WorkSpace\GitHub\MC.MVC\MC.MVC.WebSite\bin\zh-Hans\System.Web.Razor.resources
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.WebSite\bin\zh-Hans\System.Web.WebPages.resources.dll
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.WebSite\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.WebSite\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-G:\WorkSpace\GitHub\MC.MVC\MC.MVC.WebSite\bin\zh-Hans\System.Net.Http.resources.dll
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.WebSite\obj\Debug\MC.MVC.WebSite.csprojAssemblyReference.cache
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.WebSite\obj\Debug\MC.MVC.WebSite.csproj.CoreCompileInputs.cache
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.WebSite\obj\Debug\MC.MVC.WebSite.csproj.CopyComplete
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.WebSite\obj\Debug\MC.MVC.WebSite.dll
 G:\WorkSpace\GitHub\MC.MVC\MC.MVC.WebSite\obj\Debug\MC.MVC.WebSite.pdb
+G:\WorkSpace\GitHub\MC.MVC\MC.MVC.WebSite\bin\System.Net.Http.WebRequest.dll

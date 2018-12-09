@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.Drawing.Drawing2D;
+using System.Drawing.Text;
 using System.IO;
 using System.Linq;
 using System.Web;
@@ -26,16 +28,16 @@ namespace MC.MVC.WebSite.Controllers
             System.Drawing.Image erweima = System.Drawing.Image.FromFile(Server.MapPath("/") + "images/mini.png");
             MemoryStream ms = new MemoryStream();
             var bmp = GenegateImage(image,cover,erweima);
-            bmp.Save(ms, System.Drawing.Imaging.ImageFormat.Jpeg);
+            bmp.Save(ms, System.Drawing.Imaging.ImageFormat.Bmp);
             bmp.Dispose();
             bmp.Dispose();
-            return File(ms.ToArray(), "image/jpeg");
+            return File(ms.ToArray(), "image/png");
 
         }
 
         public Bitmap GenegateImage(Image backImg,Image coverImage,Image erweima) {
             var width = 286;
-            var height = 512;
+            var height = 514;
             var titleFormat = new StringFormat(StringFormatFlags.DisplayFormatControl);
             titleFormat.LineAlignment = StringAlignment.Center;
             titleFormat.Alignment = StringAlignment.Center;
@@ -46,7 +48,13 @@ namespace MC.MVC.WebSite.Controllers
             //背景图片
           
             Bitmap bitmap = new Bitmap(backImg, width, height);
-            Graphics g = Graphics.FromImage(bitmap);
+            Bitmap b1 = new Bitmap(286, 514);
+            Graphics g = Graphics.FromImage(b1);
+            g.Clear(Color.White);
+            g.SmoothingMode = SmoothingMode.AntiAlias; //使绘图质量最高，即消除锯齿
+            g.InterpolationMode = InterpolationMode.HighQualityBicubic;
+            g.CompositingQuality = CompositingQuality.HighQuality;
+            g.TextRenderingHint = TextRenderingHint.ClearTypeGridFit;
 
             var text = "辽大二部 新上房源 南北通透 全明户型 不临街 户口没问题 能落户";
             float fontSize = 12.0f;             //字体大小
@@ -68,9 +76,10 @@ namespace MC.MVC.WebSite.Controllers
 
             g.FillRectangle(blackBrush, rectX, rectY, rectWidth, rectHeight);
 
-           
-           
+
+
             //画封面图
+            g.DrawImage(backImg, 0, 0, 286, 514);
             g.DrawString("租房子找芒果!", biaoyuFont, new SolidBrush(Color.Black), 65, 45);
             g.DrawString("值得信赖!", biaoyuFont, new SolidBrush(Color.Black), 65, 65);
             g.DrawImage(coverImage, 20, 94, 244, 129);
@@ -93,8 +102,10 @@ namespace MC.MVC.WebSite.Controllers
             //MemoryStream ms = new MemoryStream();
             //保存为Jpg类型
             //bitmap.Save(ms, ImageFormat.Jpeg);
+            //g.clear(Color.White);
             
-            return bitmap;
+
+            return b1;
         }
 
     }

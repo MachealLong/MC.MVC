@@ -31,7 +31,7 @@ namespace MC.MVC.WebSite
             //var xx = SysManageOperator.QueryUserList(manageUser);
             AppLogger.Application.Info("sb");
           //  string str = SysManageProvider.test();
-            WebApiConfig.Register(GlobalConfiguration.Configuration);
+            //WebApiConfig.Register(GlobalConfiguration.Configuration);
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
         }
